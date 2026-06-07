@@ -92,6 +92,16 @@ GitHub: https://github.com/WasiullahSahito/FleetMove.git
 - Role-based access control and scalable APIs
 
 ---
+### 🤖 SZABOT – AI Academic Assistant (RAG System)
+GitHub: https://github.com/WasiullahSahito/SZABOTFYP.git  
+
+- AI-powered academic assistant for SZABIST Hyderabad Campus  
+- Built using RAG (Retrieval-Augmented Generation) architecture  
+- Converts Excel/PDF schedules into structured academic data  
+- Google Gemini AI integration for accurate contextual answers  
+- Admin dashboard for uploading timetables and monitoring queries  
+- Real-time chat system for students and staff  
+- Smart intent detection (Classes, Exams, Events)
 
 
 ---
