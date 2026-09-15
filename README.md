@@ -206,7 +206,7 @@ AI & Automation
   <a href="https://github.com/WasiullahSahito">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://devwasiullah.netlify.app">
+  <a href="https://wasiullahsahito.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:wasi1237585@gmail.com">
