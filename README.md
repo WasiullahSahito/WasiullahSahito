@@ -1,7 +1,3 @@
-Absolutely. Based on your current resume, I’d make your GitHub profile README **professional, recruiter-friendly, and developer-focused**, without making it look overly flashy.
-
-You can create a `README.md` in your GitHub profile repository named **`WasiullahSahito`** and use this:
-
 # Hi, I'm Wasiullah Sahito 👋
 
 ### Software Engineer | Backend & Full Stack Development
