@@ -1,116 +1,231 @@
-# Wasiullah Sahito
-### Full Stack Developer | Laravel & MERN Stack | SaaS & API Specialist
+Absolutely. Based on your current resume, I’d make your GitHub profile README **professional, recruiter-friendly, and developer-focused**, without making it look overly flashy.
 
-📍 Hyderabad, Sindh, Pakistan  
-📧 wasi1237585@gmail.com  
-📞 +92 333 4698244  
-🌐 Portfolio: https://devwasiullah.netlify.app  
-💻 GitHub: https://github.com/WasiullahSahito  
+You can create a `README.md` in your GitHub profile repository named **`WasiullahSahito`** and use this:
 
----
+# Hi, I'm Wasiullah Sahito 👋
 
-## 🚀 About Me
+### Software Engineer | Backend & Full Stack Development
 
-Full Stack Developer with hands-on experience in building scalable Laravel and React.js applications, SaaS platforms, and API-driven systems.
+I'm a **Backend-focused Full Stack Developer** specializing in **Laravel, Node.js, and React.js**. I build production-ready web applications, RESTful APIs, SaaS platforms, and real-time systems with a strong focus on backend architecture, database design, performance, and system integration.
 
-I specialize in:
-- Designing and developing RESTful APIs
-- Building scalable backend systems
-- Real-time applications using WebSockets
-- Authentication & role-based systems
-- Performance optimization and system architecture
-
-Delivered production-ready applications supporting **500+ users** with up to **30% performance improvements** through optimization and caching strategies.
+* 🔭 Currently building and improving **production web applications and SaaS platforms**
+* 💻 Strong focus on **Laravel, Node.js, REST APIs, PostgreSQL, MySQL, and React.js**
+* ⚡ Experienced in **authentication, RBAC, JWT, WebSockets, API integrations, and database optimization**
+* 🤖 Interested in **AI-assisted development, RAG systems, and AI API integrations**
+* ☁️ Experience with **AWS, Docker, Linux, Laravel Cloud, Vercel, and Netlify**
+* 🎓 Bachelor of Computer Science — **SZABIST University**
+* 📍 Karachi, Sindh, Pakistan
 
 ---
 
-## 🎓 Education
+## 🛠️ Tech Stack
 
-**SZABIST University** — Hyderabad, Pakistan  
-Bachelor of Computer Science (Completed 2026)
+### Backend
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-## 💼 Work Experience
+### Frontend
 
-### CodePro Software and Web Services — Full Stack Developer  
-📍 Jan 2024 – Jan 2025
-- Developed scalable SaaS applications using Laravel and Node.js
-- Built systems supporting 500+ active users with real-time features
-- Improved API performance by 30% using optimization and caching techniques
-- Reduced system downtime by 15% through debugging and monitoring
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
----
+### Databases
 
-### Axoon Solutions — Backend Developer (Intern / Contract)  
-📍 Jun 2025 – Aug 2025
-- Built backend APIs using Laravel, Node.js, and Express.js
-- Improved API response efficiency by 28% through optimization
-- Integrated frontend systems with RESTful APIs for smooth data flow
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
----
+### Cloud & Tools
 
-## 🛠️ Technical Skills
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
-**Languages:** PHP, JavaScript, Python, TypeScript  
-**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
-**Backend:** Laravel, Node.js, Express.js, FastAPI, Flask  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, Docker, Postman, REST APIs, WebSockets, n8n  
-**AI & Automation:** OpenAI API, GitHub Copilot, ChatGPT, Prompt Engineering  
-**Cloud:** AWS, Vercel, Linux, Laravel Cloud  
+### AI & Automation
 
----
-
-## 📌 Featured Projects
-
-### 🚚 Fleet Management System
-GitHub: https://github.com/WasiullahSahito/FleetManagementSystem.git
-- SaaS-based vehicle tracking and management system
-- RESTful APIs built with Node.js & Express.js
-- Role-based authentication system
-- Database optimization improved performance by 20%
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=google\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
 
 ---
 
-### 📊 OnlyMetric Dashboard (COGS Intelligence SaaS)
-Live: https://happy-hour-main-u4wqug.laravel.cloud  
-GitHub: https://github.com/AbrarTunio/Happy_Hour.git
-- Real-time analytics SaaS dashboard
-- Built using Laravel + React.js
-- Supplier, invoice, and staff management modules
-- Production deployment on Laravel Cloud
+## 🚀 Featured Projects
+
+### 🚗 FleetMove — Fleet Management & Booking Platform
+
+**Laravel · MySQL · WebSockets · JWT · REST API**
+
+A production fleet operations platform for vehicle booking, trip management, driver operations, and live tracking.
+
+**Key features:**
+
+* Real-time vehicle booking and trip management
+* JWT authentication and role-based access control
+* Separate permissions for administrators, operators, and drivers
+* Real-time tracking and notifications using WebSockets
+* Third-party payment gateway integration
+* Production deployment and maintenance
+
+🌐 **Live:** [https://fleet-move.com](https://fleet-move.com)
 
 ---
 
-### 🚛 FleetMove – Smart Fleet Booking System
-Live: https://fleet-move.com  
-GitHub: https://github.com/WasiullahSahito/FleetMove.git
-- Fleet booking system with “Book Now” feature
-- Real-time trip management and notifications
-- WebSocket-based live updates
-- Role-based access control and scalable APIs
+### 📊 OnlyMetric — COGS Intelligence SaaS
+
+**Laravel · React.js · PostgreSQL · Laravel Cloud**
+
+A SaaS analytics platform designed for hospitality cost tracking and operational reporting.
+
+**Key features:**
+
+* Supplier management
+* Invoice management
+* Staff management
+* Real-time COGS reporting
+* Database and query optimization
+* Production deployment on Laravel Cloud
+
+⚡ Improved report generation performance by **25%** through query restructuring.
 
 ---
-### 🤖 SZABOT – AI Academic Assistant (RAG System)
-GitHub: https://github.com/WasiullahSahito/SZABOTFYP.git  
 
-- AI-powered academic assistant for SZABIST Hyderabad Campus  
-- Built using RAG (Retrieval-Augmented Generation) architecture  
-- Converts Excel/PDF schedules into structured academic data  
-- Google Gemini AI integration for accurate contextual answers  
-- Admin dashboard for uploading timetables and monitoring queries  
-- Real-time chat system for students and staff  
-- Smart intent detection (Classes, Exams, Events)
+### 🤖 SZABOT — AI Academic Assistant
 
+**Python · RAG · Google Gemini API · JavaScript**
+
+An AI-powered academic assistant designed to help students retrieve information from structured academic data.
+
+**Key features:**
+
+* Retrieval-Augmented Generation (RAG)
+* PDF and Excel timetable parsing
+* AI-powered student query handling
+* Intent detection
+* Schedule, exam, class, and event queries
+* Admin dashboard for data uploads and monitoring
+* Google Gemini API integration
+
+---
+
+### 🎨 ODDCO Studios — Animation Studio Website
+
+**HTML5 · CSS3 · JavaScript · PHP · SEO**
+
+A responsive production website developed for a 2D animation and character design studio.
+
+**Key features:**
+
+* Responsive design
+* Portfolio presentation
+* On-page SEO
+* Frontend performance optimization
+* Production deployment and maintenance
+
+🌐 **Live:** [https://oddcostudios.com](https://oddcostudios.com)
+
+---
+
+## 💡 What I Work On
+
+```text
+Backend Development
+├── Laravel / PHP
+├── Node.js / Express
+├── RESTful APIs
+├── Authentication & Authorization
+├── JWT & RBAC
+├── WebSockets
+└── Third-Party Integrations
+
+Database Engineering
+├── PostgreSQL
+├── MySQL
+├── MongoDB
+├── Database Design
+└── Query Optimization
+
+Frontend Development
+├── React.js
+├── Next.js
+├── JavaScript
+├── TypeScript
+└── Tailwind CSS
+
+Cloud & DevOps
+├── AWS
+├── Docker
+├── Linux
+├── Laravel Cloud
+├── Vercel
+└── Git
+
+AI & Automation
+├── OpenAI API
+├── Google Gemini API
+├── RAG Systems
+├── AI-assisted Development
+└── n8n Automation
+```
+
+---
+
+## 📈 Engineering Highlights
+
+* 🚀 Improved API response efficiency by **28%**
+* ⚡ Reduced report generation time by **25%**
+* 👥 Built production applications supporting **500+ users**
+* 🔐 Implemented authentication and role-based authorization systems
+* 🔌 Designed and integrated RESTful APIs
+* 📡 Implemented real-time systems using WebSockets
+* 🗄️ Worked with relational and NoSQL databases
+* ☁️ Deployed and maintained applications in cloud environments
+
+---
+
+## 📚 Currently Learning
+
+* Advanced backend architecture
+* Scalable Laravel applications
+* System design
+* Distributed systems
+* AI-powered applications
+* RAG architectures
+* Cloud infrastructure and deployment
+* Performance optimization
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 Open to Full Stack / Backend / SaaS opportunities  
-📧 Email: wasi1237585@gmail.com  
-🌐 Portfolio: https://devwasiullah.netlify.app  
+<p align="left">
+  <a href="https://github.com/WasiullahSahito">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://devwasiullah.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:wasi1237585@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-⭐ *If you like my work, feel free to follow or connect!*
+
+### ⚡ A little about me
+
+> I enjoy turning real-world problems into reliable software — from designing backend APIs and database architecture to building responsive interfaces and deploying production systems.
+
+**Always learning. Always building. 🚀**
+
+This version is intentionally **more professional than a typical flashy GitHub README**. For recruiters, your strongest points are immediately visible: **Laravel/Node backend, React, production systems, API design, databases, real-time systems, and measurable performance improvements**.
+
+If you want, I can also make you a **more impressive “senior developer style” GitHub README** with GitHub stats, contribution streak, top languages, animated sections, project cards, and a cleaner dark-theme design.
