@@ -96,7 +96,7 @@ A live ride-hailing and fleet platform for Fivestar Galway Taxis, built on a 16-
 
 ---
 
-### 🚕 Daytrip: Taxi Booking Platform
+### 🚕 DayRide: Taxi Booking Platform
 
 **Laravel 13 · React 19 · PostgreSQL · Stripe · SumUp · PHPUnit**
 
@@ -110,7 +110,7 @@ A taxi booking platform with a Laravel REST API and a React single-page applicat
 * PHPUnit test coverage
 * Deployed to production on a Contabo VPS (Ubuntu Linux, OpenLiteSpeed, PostgreSQL)
 
-🌐 **Live:** [daytrip.ie](https://daytrip.ie)
+🌐 **Live:** [dayride.ie](https://dayride.ie)
 
 ---
 
